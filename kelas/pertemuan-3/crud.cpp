@@ -96,7 +96,7 @@ int main()
             cin >> index;
 
             for (int i = index-1; i < panjang-1; i++)
-            {
+            {   
                 mahasiswa[i] = mahasiswa[i+1];
             }
 
