@@ -60,5 +60,17 @@
         "thread": "cpp",
         "cinttypes": "cpp"
     },
-    "C_Cpp.default.compilerPath": "D:/Coding/CPP/msys64/ucrt64/bin/g++.exe"
+    "C_Cpp.default.compilerPath": "D:/Coding/CPP/msys64/ucrt64/bin/g++.exe",
+    "github.copilot.enable": {
+        "*": true,
+        "plaintext": true,
+        "markdown": false,
+        "scminput": false,
+        "csharp": true,
+        "php": true,
+        "css": true,
+        "python": true,
+        "json": true,
+        "properties": true
+    }
 }
