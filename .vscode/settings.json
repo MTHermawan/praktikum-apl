@@ -71,7 +71,6 @@
         "css": true,
         "python": true,
         "json": true,
-        "properties": true,
-        "cpp": false
+        "properties": true
     }
 }
